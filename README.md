@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @paynterbj. I work in local government in North Carolina primarily as a GIS specialist in utilities. 
-- My education is in Sustainable Development/Environmental Planning but I've always used data science and GIS to approach solutions. 
+- 👋 Hi, I’m Ben @paynterbj. I work in local government in North Carolina primarily as a GIS specialist in utilities. 
+- My education is in Sustainable Development/Environmental Planning (App State 2013, UNC-Chapel Hill 2019) but I've always used data science and GIS to approach solutions. 
 
 - 👀 I’m interested in ...
 -   - data science/analytics
